@@ -14,7 +14,7 @@
 
 This repository contains the Lean translation of my work toward a computer science degree. My thesis is [here](http://132.248.9.195/ptd2016/junio/0746652/Index.html).
 
-The original work formalized basic concepts of category theory in Coq.
+[The original work formalized basic concepts of category theory in Coq](https://github.com/spidermoy/Monads_KleisliTriples_Proof).
 This version translates the definitions and proofs into [Lean](https://lean-lang.org/).
 
 ---
