@@ -49,7 +49,7 @@ between monads and Kleisli triples.
 In 2007, Gammon shows a detailed and extended formal proof of the mathematical equivalence
 between monads and Kleisli triples.
 (See [Gammon, S. C. (2007). Notions of category theory in functional programming (Doctoral dissertation, University of British Columbia).](https://open.library.ubc.ca/cIRcle/collections/ubctheses/831/items/1.0080357))
-Finally, in 2016, I formalized Gammon's proof in the proof assistant Coq.
+Finally, in 2016, I formalized Gammon's proof.
 
 ---
 
