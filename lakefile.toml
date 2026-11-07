@@ -1,0 +1,8 @@
+name = "Monads_KleisliTriples_Proof_Lean"
+version = "0.1.0"
+defaultTargets = ["MonadsKleisliTriplesProofLean"]
+
+[[lean_lib]]
+name = "MonadsKleisliTriplesProofLean"
+
+roots = ["MonadsKleisliTriplesProofLean", "Main"]
